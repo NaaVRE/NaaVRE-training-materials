@@ -1,6 +1,4 @@
-# _virtual lab name_
-_abstract_
+### NaaVRE training materials
+Collection of tutorials and exercises to learn to work with NaaVRE. 
 
-### keywords
-- _keyword1_
-- _keyword2_
+Also check out our [NaaVRE documentation website](naavre.net).
